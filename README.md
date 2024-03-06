@@ -4,4 +4,4 @@ https://hamza-musa.github.io/HTML/SolarSystem/indexPt1.html
 
 https://hamza-musa.github.io/HTML/SolarSystem/indexPt1.html
 
-https://hamza-musa.github.io/HTML/SolarSystem/indexPt1.html
+https://hamza-musa.github.io/HTML/FashionBlog.html
